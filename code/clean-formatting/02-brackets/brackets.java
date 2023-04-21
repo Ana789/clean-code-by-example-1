@@ -1,6 +1,0 @@
-// Common Java convention
-if (value) {
-    // ...
-} else {
-    // ...
-}
